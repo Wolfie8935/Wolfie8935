@@ -1,17 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aman Goel (Wolfie8935)</h1>
-<h3 align="center">A passionate frontend developer and C++ Coder from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfie8935&label=Profile%20views&color=0e75b6&style=flat" alt="wolfie8935" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolfie8935" alt="wolfie8935" /></a> </p>
-
-- 🔭 I’m currently working on [My Personal Website](https://wolfie8935.github.io/My_Personal_Website/)
-
-- 🌱 Presently, I'm deep into mastering Web design and sharpening my web development and AI skills. **taking online courses and reading through MDN web documents to learn**
-
-- 📫 Feel free to reach out to me. I'm always open to fruitful conversations and collaborations. **wolfie8935@gmail.com**
-
-- ⚡ Fun fact **I am really good in tennis like really challenge me anytime...**
+# 💫 About Me:
+👋 Hello, I'm Wolfie8935!<br><br>🚀 Welcome to my digital domain where coding, creativity, and curiosity converge.<br><br>👨‍💻 As a passionate programmer, I excel in the art of turning lines of code into functional magic. My preferred languages are C++ and Java, where I craft intricate digital worlds and bring ideas to life.<br><br>🌐 Web development has a special place in my heart, as I meticulously master the art of designing and developing immersive online experiences. HTML, CSS, and JavaScript are my trusty tools for creating captivating web solutions.<br><br>🎾 Tennis is my other love. Just as I gracefully volley on the court, I navigate the complex game of coding with finesse, adaptability, and strategy. Whether it's a perfect serve or a well-optimized algorithm, I relish the thrill of pushing my limits.<br><br>🌱 Embracing the new is in my DNA. I'm always on the lookout for the latest technologies, trends, and techniques in the ever-evolving world of tech. This hunger for knowledge keeps me on the cutting edge of innovation.<br><br>📧 Let's Connect!<br>I thrive on fruitful conversations and collaborations. Whether you're interested in discussing code architecture, sharing web design insights, or just geeking out about the latest tech trends, drop me a line at wolfie8935@gmail.com.<br><br>🤝 Open to Opportunities<br>Whether it's brainstorming on a coding project, fine-tuning a web design, or exploring uncharted territories, I'm up for the challenge. Let's collaborate and create something amazing together.<br><br>🌟 Remember, life is a lot like coding: embrace the errors, learn from them, and always keep exploring for that perfect solution!<br><br>Stay curious, keep coding, and let's inspire the digital world together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +14,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wolfie8935"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wolfie8935" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfie8935&show_icons=true&locale=en&layout=compact" alt="wolfie8935" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfie8935&show_icons=true&locale=en" alt="wolfie8935" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wolfie8935&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wolfie8935&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfie8935&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wolfie8935&" alt="wolfie8935" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wolfie8935&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
